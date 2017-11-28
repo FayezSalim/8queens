@@ -1,0 +1,15 @@
+C:\Users\Virux\Desktop\8queenmatrix\8queenmatrix\bin\Debug\8queenmatrix.exe
+C:\Users\Virux\Desktop\8queenmatrix\8queenmatrix\bin\Debug\8queenmatrix.pdb
+C:\Users\Virux\Desktop\8queenmatrix\8queenmatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Virux\Desktop\8queenmatrix\8queenmatrix\obj\x86\Debug\8queenmatrix.exe
+C:\Users\Virux\Desktop\8queenmatrix\8queenmatrix\obj\x86\Debug\8queenmatrix.pdb
+C:\Users\Virux\Desktop\8queenmatrix 8 soln\8queenmatrix\obj\x86\Debug\8queenmatrix.exe
+C:\Users\Virux\Desktop\8queenmatrix 8 soln\8queenmatrix\obj\x86\Debug\8queenmatrix.pdb
+C:\Users\Virux\Desktop\8queenmatrix 8 soln\8queenmatrix\bin\Debug\8queenmatrix.exe
+C:\Users\Virux\Desktop\8queenmatrix 8 soln\8queenmatrix\bin\Debug\8queenmatrix.pdb
+C:\Users\Virux\Desktop\8queenmatrix 8 soln\8queenmatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\sort\copy\work\8queenmatrix  all soln -\8queenmatrix\obj\x86\Debug\8queenmatrix.exe
+E:\sort\copy\work\8queenmatrix  all soln -\8queenmatrix\obj\x86\Debug\8queenmatrix.pdb
+E:\sort\copy\work\8queenmatrix  all soln -\8queenmatrix\bin\Debug\8queenmatrix.exe
+E:\sort\copy\work\8queenmatrix  all soln -\8queenmatrix\bin\Debug\8queenmatrix.pdb
+E:\sort\copy\work\8queenmatrix  all soln -\8queenmatrix\obj\x86\Debug\8queenmatrix.csprojResolveAssemblyReference.cache
